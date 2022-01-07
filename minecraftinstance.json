@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
-  "playedCount": 0,
+  "lastPlayed": "2022-01-07T20:38:08.8860335Z",
+  "playedCount": 2,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -74,6 +74,201 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2022-01-07T13:21:49.178713Z",
   "installedAddons": [
+    {
+      "addonID": 291477,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 2601488,
+        "displayName": "Monk Mod 1.4",
+        "fileName": "monk-mod-1.4.jar",
+        "fileDate": "2018-08-11T14:59:18.363Z",
+        "fileLength": 229839,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2601/488/monk-mod-1.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 952954614,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1079904872,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3544885270,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2388904005,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3529097459,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1429139,
+        "projectId": 291477,
+        "packageFingerprintId": 258031848,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1641839,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "monk-mod-1.4.jar"
+      },
+      "dateInstalled": "2022-01-07T20:34:12.2728521Z",
+      "dateUpdated": "2022-01-07T20:34:12.2888511Z",
+      "dateLastUpdateAttempted": "2022-01-07T20:34:12.2888511Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 534363,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 3510156,
+        "displayName": "ExtraAcademy-1.2.0-pre3.jar",
+        "fileName": "ExtraAcademy-1.2.0-pre3.jar",
+        "fileDate": "2021-10-31T06:20:12.317Z",
+        "fileLength": 348112,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3510/156/ExtraAcademy-1.2.0-pre3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 77175435,
+            "addonId": 236188,
+            "type": 3,
+            "fileId": 3510156
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3364777526,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3932734289,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cn",
+            "fingerprint": 273844634,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1358869160,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "nulla.jpg",
+            "fingerprint": 1717202842,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2196649084,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2359497858,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2564404,
+        "projectId": 534363,
+        "packageFingerprintId": 774154627,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3427605,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ExtraAcademy-1.2.0-pre3.jar"
+      },
+      "dateInstalled": "2022-01-07T20:35:40.7028311Z",
+      "dateUpdated": "2022-01-07T20:35:40.7158314Z",
+      "dateLastUpdateAttempted": "2022-01-07T20:35:40.7158314Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 409248,
       "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
@@ -178,6 +373,97 @@
       "dateInstalled": "2022-01-07T13:22:38.6712059Z",
       "dateUpdated": "2022-01-07T13:22:38.6761955Z",
       "dateLastUpdateAttempted": "2022-01-07T13:22:38.6761955Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 3043174,
+        "displayName": "jei_1.12.2-4.16.1.302.jar",
+        "fileName": "jei_1.12.2-4.16.1.302.jar",
+        "fileDate": "2020-08-27T01:47:46.263Z",
+        "fileLength": 653210,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3043/174/jei_1.12.2-4.16.1.302.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 457918307,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 2799571216,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1488642189,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3001924313,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 9943101,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1065578237,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1970605,
+        "projectId": 238222,
+        "packageFingerprintId": 512127697,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2399976,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei_1.12.2-4.16.1.302.jar"
+      },
+      "dateInstalled": "2022-01-07T20:33:57.6488056Z",
+      "dateUpdated": "2022-01-07T20:33:57.6638031Z",
+      "dateLastUpdateAttempted": "2022-01-07T20:33:57.6638031Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,
@@ -293,6 +579,109 @@
       "dateInstalled": "2022-01-07T13:22:25.5951499Z",
       "dateUpdated": "2022-01-07T13:22:25.6021491Z",
       "dateLastUpdateAttempted": "2022-01-07T13:22:25.6021491Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 235440,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 2715198,
+        "displayName": "Numina-1.12.2-1.0.38",
+        "fileName": "Numina-1.12.2-1.0.38.jar",
+        "fileDate": "2019-05-24T12:31:55.1Z",
+        "fileLength": 1013581,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2715/198/Numina-1.12.2-1.0.38.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1566880303,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 2468322211,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "ic2",
+            "fingerprint": 1043871662,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3527169089,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2552482976,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3442838747,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 3306383223,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3008756587,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1564623,
+        "projectId": 235440,
+        "packageFingerprintId": 318312317,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1818689,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "Numina-1.12.2-1.0.38.jar"
+      },
+      "dateInstalled": "2022-01-07T20:37:58.0738552Z",
+      "dateUpdated": "2022-01-07T20:37:58.0898577Z",
+      "dateLastUpdateAttempted": "2022-01-07T20:37:58.0898577Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,
@@ -499,6 +888,219 @@
       "dateInstalled": "2022-01-07T13:22:39.5255817Z",
       "dateUpdated": "2022-01-07T13:22:39.5545962Z",
       "dateLastUpdateAttempted": "2022-01-07T13:22:39.5545962Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 235442,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 2743885,
+        "displayName": "ModularPowersuits-1.12.2-1.0.46",
+        "fileName": "ModularPowersuits-1.12.2-1.0.46.jar",
+        "fileDate": "2019-07-18T22:49:19.647Z",
+        "fileLength": 2560485,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2743/885/ModularPowersuits-1.12.2-1.0.46.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1203183700,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 237421706,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3527169089,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1206825383,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2524871718,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 3306383223,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1198111134,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1598914,
+        "projectId": 235442,
+        "packageFingerprintId": 334134916,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1864893,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ModularPowersuits-1.12.2-1.0.46.jar"
+      },
+      "dateInstalled": "2022-01-07T13:23:13.0232752Z",
+      "dateUpdated": "2022-01-07T13:23:13.0297946Z",
+      "dateLastUpdateAttempted": "2022-01-07T13:23:13.0297946Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 236188,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 3005254,
+        "displayName": "AcademyCraft 1.1.3",
+        "fileName": "AcademyCraft-1.1.3.jar",
+        "fileDate": "2020-07-15T03:21:07.92Z",
+        "fileLength": 29778353,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3005/254/AcademyCraft-1.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 45058079,
+            "addonId": 239197,
+            "type": 2,
+            "fileId": 3005254
+          },
+          {
+            "id": 45058080,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 3005254
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 479150129,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cn",
+            "fingerprint": 2582872529,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 58466717,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "changelog",
+            "fingerprint": 3013736232,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 618390647,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1785093240,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1167222980,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 947319533,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1923678,
+        "projectId": 236188,
+        "packageFingerprintId": 488565425,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 2321920,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "AcademyCraft-1.1.3.jar"
+      },
+      "dateInstalled": "2022-01-07T20:35:39.6895351Z",
+      "dateUpdated": "2022-01-07T20:35:39.7175352Z",
+      "dateLastUpdateAttempted": "2022-01-07T20:35:39.7175352Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,

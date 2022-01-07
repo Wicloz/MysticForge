@@ -1,1 +1,7 @@
 .curseclient
+logs
+options.txt
+saves
+usercache.json
+usernamecache.json
+acmedia
