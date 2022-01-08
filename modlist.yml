@@ -1,0 +1,30 @@
+- category: Body Modding
+  row: 1
+  addons:
+    - 291477
+    - 236188
+    - 534363
+    - 283377
+    - 285550
+    - 256989
+
+- category: Equipment
+  row: 1
+  addons:
+    - 317310
+    - 235442
+
+- category: Libraries
+  row: 3
+  addons:
+    - 235440
+
+- category: HUD
+  row: 3
+  addons:
+    - 245211
+
+- category: GUI
+  row: 3
+  addons:
+    - 238222

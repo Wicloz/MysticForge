@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2022-01-07T20:38:08.8860335Z",
-  "playedCount": 2,
+  "lastPlayed": "2022-01-08T15:46:12.6628443Z",
+  "playedCount": 4,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -74,6 +74,374 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2022-01-07T13:21:49.178713Z",
   "installedAddons": [
+    {
+      "addonID": 245211,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 2667280,
+        "displayName": "TheOneProbe - 1.12-1.4.28",
+        "fileName": "theoneprobe-1.12-1.4.28.jar",
+        "fileDate": "2019-01-31T18:42:38.827Z",
+        "fileLength": 301893,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 23136371,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 2667280
+          },
+          {
+            "id": 23136369,
+            "addonId": 244651,
+            "type": 2,
+            "fileId": 2667280
+          },
+          {
+            "id": 23136370,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 2667280
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 903804330,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 51082930,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1427744101,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1194480308,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 266445579,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2094495496,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1507148,
+        "projectId": 245211,
+        "packageFingerprintId": 290423331,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1744544,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "theoneprobe-1.12-1.4.28.jar"
+      },
+      "dateInstalled": "2022-01-08T15:44:17.4022695Z",
+      "dateUpdated": "2022-01-08T15:44:17.4072689Z",
+      "dateLastUpdateAttempted": "2022-01-08T15:44:17.4072689Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 283377,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 3366534,
+        "displayName": "cyberware-1.12.2-0.2.11.29",
+        "fileName": "cyberware-1.12.2-0.2.11.29.jar",
+        "fileDate": "2021-06-27T13:56:57.877Z",
+        "fileLength": 895485,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3366/534/cyberware-1.12.2-0.2.11.29.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 67431683,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 3366534
+          },
+          {
+            "id": 67431685,
+            "addonId": 308192,
+            "type": 2,
+            "fileId": 3366534
+          },
+          {
+            "id": 67431684,
+            "addonId": 64578,
+            "type": 2,
+            "fileId": 3366534
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4031602724,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "flaxbeard",
+            "fingerprint": 3472232338,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "micdoodle8",
+            "fingerprint": 3762888690,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 390939652,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "changelog.txt",
+            "fingerprint": 1464054403,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 575192977,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2533414684,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1276012966,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0",
+            "gameVersion": "",
+            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2381253,
+        "projectId": 283377,
+        "packageFingerprintId": 692813098,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 3080250,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "cyberware-1.12.2-0.2.11.29.jar"
+      },
+      "dateInstalled": "2022-01-08T16:18:06.4780033Z",
+      "dateUpdated": "2022-01-08T16:18:06.4940032Z",
+      "dateLastUpdateAttempted": "2022-01-08T16:18:06.4940032Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 285550,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 2962840,
+        "displayName": "ReWIRED - 1.12.2 - 1.0.9b",
+        "fileName": "ReWIRED-1.0.9b.jar",
+        "fileDate": "2020-05-22T06:49:56.733Z",
+        "fileLength": 451380,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2962/840/ReWIRED-1.0.9b.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 42357943,
+            "addonId": 242942,
+            "type": 2,
+            "fileId": 2962840
+          },
+          {
+            "id": 42357945,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 2962840
+          },
+          {
+            "id": 42357942,
+            "addonId": 267602,
+            "type": 2,
+            "fileId": 2962840
+          },
+          {
+            "id": 42357944,
+            "addonId": 242638,
+            "type": 2,
+            "fileId": 2962840
+          },
+          {
+            "id": 42357946,
+            "addonId": 283377,
+            "type": 3,
+            "fileId": 2962840
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4161765890,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1035370455,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "micdoodle8",
+            "fingerprint": 3762888690,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4257310796,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 4199629416,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 596767598,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 352743656,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1870529,
+        "projectId": 285550,
+        "packageFingerprintId": 461640655,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 2238765,
+        "gameVersionId": 6756,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "ReWIRED-1.0.9b.jar"
+      },
+      "dateInstalled": "2022-01-08T16:18:28.3822357Z",
+      "dateUpdated": "2022-01-08T16:18:28.3922352Z",
+      "dateLastUpdateAttempted": "2022-01-08T16:18:28.3922352Z",
+      "status": 4,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
     {
       "addonID": 291477,
       "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
@@ -163,7 +531,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 534363,
@@ -267,122 +635,6 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 409248,
-      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
-      "installedFile": {
-        "id": 3195603,
-        "displayName": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
-        "fileName": "Simple Parts-Content Pack-1.12.2-5.7.2.jar",
-        "fileDate": "2021-02-07T11:19:15.19Z",
-        "fileLength": 237132,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3195/603/Simple Parts-Content Pack-1.12.2-5.7.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 56289747,
-            "addonId": 317310,
-            "type": 3,
-            "fileId": 3195603
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3501420652,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bullets",
-            "fingerprint": 1255918515,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 37979413,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "parts",
-            "fingerprint": 3268819208,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "redirect.info",
-            "fingerprint": 1039303952,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "tools",
-            "fingerprint": 2328245107,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3921276907,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1095497400,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2161196,
-        "projectId": 409248,
-        "packageFingerprintId": 600948894,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 2704471,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Simple Parts-Content Pack-1.12.2-5.7.2.jar"
-      },
-      "dateInstalled": "2022-01-07T13:22:38.6712059Z",
-      "dateUpdated": "2022-01-07T13:22:38.6761955Z",
-      "dateLastUpdateAttempted": "2022-01-07T13:22:38.6761955Z",
-      "status": 4,
-      "installSource": 0,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
       "installedTargets": null
     },
     {
@@ -474,7 +726,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 317310,
@@ -576,9 +828,9 @@
         "isServerPack": false,
         "FileNameOnDisk": "Flan's Mod-1.12.2-5.10.0.jar"
       },
-      "dateInstalled": "2022-01-07T13:22:25.5951499Z",
-      "dateUpdated": "2022-01-07T13:22:25.6021491Z",
-      "dateLastUpdateAttempted": "2022-01-07T13:22:25.6021491Z",
+      "dateInstalled": "2022-01-08T15:37:41.985709Z",
+      "dateUpdated": "2022-01-08T15:37:41.9967091Z",
+      "dateLastUpdateAttempted": "2022-01-08T15:37:41.9967091Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,
@@ -692,212 +944,6 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 317312,
-      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
-      "installedFile": {
-        "id": 3260604,
-        "displayName": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-        "fileName": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-        "fileDate": "2021-04-03T09:53:27.97Z",
-        "fileLength": 30240221,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3260/604/Modern Warfare-Content Pack-1.12.2-5.8.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 60452754,
-            "addonId": 317310,
-            "type": 3,
-            "fileId": 3260604
-          },
-          {
-            "id": 60452753,
-            "addonId": 409248,
-            "type": 3,
-            "fileId": 3260604
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "aaguns",
-            "fingerprint": 587000206,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "armorBoxes",
-            "fingerprint": 756117820,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "armorFiles",
-            "fingerprint": 739174016,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3403951533,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "attachments",
-            "fingerprint": 912633983,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "boxes",
-            "fingerprint": 1350967448,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "bullets",
-            "fingerprint": 2964883060,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "classes",
-            "fingerprint": 696022209,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "grenades",
-            "fingerprint": 3367971263,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "guns",
-            "fingerprint": 1470442576,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "loadouts",
-            "fingerprint": 3984694002,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3823428842,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "parts",
-            "fingerprint": 1629903673,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "planes",
-            "fingerprint": 1740695530,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "redirect.info",
-            "fingerprint": 2944621414,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "rewardBoxes",
-            "fingerprint": 3164616256,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "teams",
-            "fingerprint": 2366641281,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "tools",
-            "fingerprint": 308159112,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "vehicles",
-            "fingerprint": 1554344023,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "wip",
-            "fingerprint": 2643530508,
-            "type": 3,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 186260152,
-            "type": 3,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1608738048,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2",
-            "gameVersionTypeId": 628
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 2246308,
-        "projectId": 317312,
-        "packageFingerprintId": 636955276,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 2837041,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
-      },
-      "dateInstalled": "2022-01-07T13:22:39.5255817Z",
-      "dateUpdated": "2022-01-07T13:22:39.5545962Z",
-      "dateLastUpdateAttempted": "2022-01-07T13:22:39.5545962Z",
-      "status": 4,
-      "installSource": 0,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
       "installedTargets": null
     },
     {
@@ -985,6 +1031,97 @@
       "dateInstalled": "2022-01-07T13:23:13.0232752Z",
       "dateUpdated": "2022-01-07T13:23:13.0297946Z",
       "dateLastUpdateAttempted": "2022-01-07T13:23:13.0297946Z",
+      "status": 5,
+      "installSource": 0,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 256989,
+      "gameInstanceID": "370993f8-cab0-4a52-a8a9-c8b1fdb2e66f",
+      "installedFile": {
+        "id": 3149033,
+        "displayName": " Genetics Reborn MC 1.12.2 v1.32",
+        "fileName": "geneticsreborn-1.12-1.32.jar",
+        "fileDate": "2020-12-25T21:04:16.28Z",
+        "fileLength": 415826,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3149/33/geneticsreborn-1.12-1.32.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2827997949,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1108696829,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1990209552,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 887185778,
+            "type": 3,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1303340418,
+            "type": 3,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1525444248,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2",
+            "gameVersionTypeId": 628
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 2101670,
+        "projectId": 256989,
+        "packageFingerprintId": 574200312,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameVersionMappingId": 2607457,
+        "gameVersionId": 6756,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "geneticsreborn-1.12-1.32.jar"
+      },
+      "dateInstalled": "2022-01-08T16:19:43.6033867Z",
+      "dateUpdated": "2022-01-08T16:19:43.6133905Z",
+      "dateLastUpdateAttempted": "2022-01-08T16:19:43.6133905Z",
       "status": 4,
       "installSource": 0,
       "preferenceAutoInstallUpdates": null,
@@ -1111,7 +1248,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     }
   ],
   "isMigrated": false,
