@@ -58,6 +58,7 @@
   "exploit",
   "duritos_ranch_armor",
   "withering_armor",
+  "defiled",
   "spiky",
   "in_the_garage",
   "aridiculous",
