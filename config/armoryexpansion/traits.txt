@@ -1,6 +1,7 @@
 [
   "explosive",
   "arrow_knockback",
+  "psicological",
   "chadthunder",
   "indomitable_armor",
   "mirabile",
