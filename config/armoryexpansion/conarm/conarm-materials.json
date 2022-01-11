@@ -1651,6 +1651,28 @@
   },
   {
     "coreMaterialStats": {
+      "durability": 8.0,
+      "defense": 18.0,
+      "materialType": "core"
+    },
+    "platesMaterialStats": {
+      "durability": 3.584,
+      "modifier": 18.0,
+      "toughness": 0.0,
+      "materialType": "plates"
+    },
+    "trimMaterialStats": {
+      "extraDurability": 3.584,
+      "materialType": "trim"
+    },
+    "identifier": "wroughtiron",
+    "color": -3041385,
+    "type": "METAL",
+    "castable": false,
+    "craftable": true
+  },
+  {
+    "coreMaterialStats": {
       "durability": 28.0,
       "defense": 23.399998,
       "materialType": "core"
