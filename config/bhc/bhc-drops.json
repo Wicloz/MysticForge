@@ -1,11 +1,8 @@
 {
-  "red": {
-    "hostile": 0.05
-  },
-  "yellow": {
-    "boss": 1.0
-  },
+  "red": {},
+  "yellow": {},
   "green": {
+    "boss": 1.0,
     "dragon": 1.0
   },
   "blue": {
