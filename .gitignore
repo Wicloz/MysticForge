@@ -21,3 +21,6 @@ fonts
 optionsof.txt
 optionsshaders.txt
 config/jei
+mods
+!mods/Nutrition-1.12.2-4.9.0.jar
+.idea
