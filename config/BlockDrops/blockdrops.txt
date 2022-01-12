@@ -840,21 +840,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 11\n}"
   },
   {
-    "name": "cyclicmagic:nether_gold_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:gold_nugget",
-    "meta0": 0,
-    "0chance0": 250.475,
-    "1chance0": 336.125,
-    "2chance0": 445.775,
-    "3chance0": 537.925,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 8\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 16\n}"
-  },
-  {
     "name": "actuallyadditions:block_colored_lamp_on",
     "meta": 8,
     "length": 1,
@@ -958,21 +943,6 @@
     "1pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
     "2pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}",
     "3pair0": "{\n  \"left\": 4,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_coal_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:coal",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.8,
-    "2chance0": 172.225,
-    "3chance0": 218.54999,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "thebetweenlands:leaves_nibbletwig_tree",
@@ -1110,21 +1080,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "cyclicmagic:nether_diamond_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:diamond",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.125,
-    "2chance0": 176.6,
-    "3chance0": 221.65001,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "aroma1997sdimension:miningore",
     "meta": 1,
     "length": 1,
@@ -1243,21 +1198,6 @@
     "1pair0": "{\n  \"left\": 2,\n  \"right\": 6\n}",
     "2pair0": "{\n  \"left\": 2,\n  \"right\": 6\n}",
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 6\n}"
-  },
-  {
-    "name": "cyclicmagic:end_diamond_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:diamond",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.29999,
-    "2chance0": 174.65,
-    "3chance0": 218.025,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "cyclicmagic:peat_baked",
@@ -2280,36 +2220,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
   },
   {
-    "name": "cyclicmagic:end_redstone_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:redstone",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.79999,
-    "2chance0": 175.55,
-    "3chance0": 217.275,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_iron_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:iron_nugget",
-    "meta0": 0,
-    "0chance0": 643.075,
-    "1chance0": 864.64996,
-    "2chance0": 1143.45,
-    "3chance0": 1459.7,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 24\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 36\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}"
-  },
-  {
     "name": "twilightforest:twilight_leaves_3",
     "meta": 1,
     "length": 1,
@@ -2368,21 +2278,6 @@
     "1pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
     "2pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}",
     "3pair0": "{\n  \"left\": 2,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:end_gold_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:gold_ingot",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.65001,
-    "2chance0": 175.6,
-    "3chance0": 221.325,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "thaumicaugmentation:crab_vent",
@@ -2578,21 +2473,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:end_coal_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:coal",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 131.75,
-    "2chance0": 174.8,
-    "3chance0": 221.625,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "randomthings:coloredgrass",
@@ -2955,21 +2835,6 @@
     "3pair2": "{\n  \"left\": 0,\n  \"right\": 1\n}"
   },
   {
-    "name": "cyclicmagic:end_emerald_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:emerald",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 134.125,
-    "2chance0": 177.15,
-    "3chance0": 219.25002,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "thaumcraft:thaumatorium",
     "meta": 0,
     "length": 1,
@@ -3080,21 +2945,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}"
   },
   {
-    "name": "cyclicmagic:nether_emerald_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:emerald",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 132.875,
-    "2chance0": 175.575,
-    "3chance0": 219.1,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "minecraft:sea_lantern",
     "meta": 0,
     "length": 1,
@@ -3198,21 +3048,6 @@
     "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:end_iron_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:iron_nugget",
-    "meta0": 0,
-    "0chance0": 860.99994,
-    "1chance0": 1126.55,
-    "2chance0": 1472.8501,
-    "3chance0": 1884.65,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 16\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 32\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 48\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 64\n}"
   },
   {
     "name": "abyssalcraft:ritualaltar",
@@ -3618,21 +3453,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_lapis_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dye",
-    "meta0": 4,
-    "0chance0": 200.85,
-    "1chance0": 266.55,
-    "2chance0": 352.875,
-    "3chance0": 434.42502,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
   },
   {
     "name": "minecraft:snow_layer",
@@ -4373,21 +4193,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:nether_redstone_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:redstone",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 133.0,
-    "2chance0": 177.5,
-    "3chance0": 220.2,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
   },
   {
     "name": "nethergoldore:nether_gold_ore",
@@ -5548,21 +5353,6 @@
     "1pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
-  },
-  {
-    "name": "cyclicmagic:end_lapis_ore",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:dye",
-    "meta0": 4,
-    "0chance0": 197.025,
-    "1chance0": 269.25,
-    "2chance0": 346.6,
-    "3chance0": 434.625,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 6\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 9\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 12\n}"
   },
   {
     "name": "thaumcraft:ore_amber",
@@ -23660,21 +23450,6 @@
     "3pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}"
   },
   {
-    "name": "embers:ore_quartz",
-    "meta": 0,
-    "length": 1,
-    "name0": "minecraft:quartz",
-    "meta0": 0,
-    "0chance0": 100.0,
-    "1chance0": 134.05,
-    "2chance0": 176.22499,
-    "3chance0": 220.07501,
-    "0pair0": "{\n  \"left\": 1,\n  \"right\": 1\n}",
-    "1pair0": "{\n  \"left\": 1,\n  \"right\": 2\n}",
-    "2pair0": "{\n  \"left\": 1,\n  \"right\": 3\n}",
-    "3pair0": "{\n  \"left\": 1,\n  \"right\": 4\n}"
-  },
-  {
     "name": "wizardry:wisdom_leaves",
     "meta": 0,
     "length": 1,
@@ -23688,5 +23463,95 @@
     "1pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "2pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}",
     "3pair0": "{\n  \"left\": 0,\n  \"right\": 1\n}"
+  },
+  {
+    "name": "lycanitesmobs:demonstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:demonstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
+  },
+  {
+    "name": "lycanitesmobs:aberrantstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:aberrantstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
+  },
+  {
+    "name": "lycanitesmobs:desertstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:desertstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
+  },
+  {
+    "name": "lycanitesmobs:ashenstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:ashenstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
+  },
+  {
+    "name": "lycanitesmobs:lushstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:lushstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
+  },
+  {
+    "name": "lycanitesmobs:shadowstone_slab_double",
+    "meta": 0,
+    "length": 1,
+    "name0": "lycanitesmobs:shadowstone_slab",
+    "meta0": 0,
+    "0chance0": 200.0,
+    "1chance0": 200.0,
+    "2chance0": 200.0,
+    "3chance0": 200.0,
+    "0pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "1pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "2pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}",
+    "3pair0": "{\n  \"left\": 2,\n  \"right\": 2\n}"
   }
 ]
