@@ -1,5 +1,7 @@
 {
-  "red": {},
+  "red": {
+    "hostile": 0.01
+  },
   "yellow": {},
   "green": {
     "boss": 1.0,
