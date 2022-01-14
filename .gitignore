@@ -25,6 +25,8 @@
 /config/tellme
 /config/jeresources/world-gen-old-*.json
 /screenshots
+/tv-cache
+/servers.dat
 
 /mods
 !/mods/Nutrition-1.12.2-4.9.0.jar
