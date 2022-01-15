@@ -250,7 +250,7 @@
 			}
 		},
 		"copper_ocean": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
@@ -284,7 +284,7 @@
 			}
 		},
 		"copper_high": {
-			"enabled": "true",
+			"enabled": "false",
 			"distribution": "uniform",
 			"generator": {
 				"block": {
