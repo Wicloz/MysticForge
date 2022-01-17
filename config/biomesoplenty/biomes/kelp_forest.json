@@ -1,27 +1,30 @@
 {
   "canGenerateRivers": false,
+  "beachBiomeLocation": "minecraft:ocean",
   "skyColor": -1,
   "fogDensity": 1.0,
-  "hasBiomeEssence": true,
-  "variationBelow": 8.0,
-  "variationAbove": 2.0,
+  "hasBiomeEssence": false,
+  "variationBelow": 5.0,
+  "variationAbove": 5.0,
   "seaFloorBlock": {
-    "block": "biomesoplenty:mud",
+    "block": "minecraft:dirt",
     "properties": {
-      "variant": "mud"
+      "snowy": "false",
+      "variant": "dirt"
     }
   },
   "fillerBlock": {
-    "block": "biomesoplenty:mud",
+    "block": "minecraft:dirt",
     "properties": {
-      "variant": "mud"
+      "snowy": "false",
+      "variant": "dirt"
     }
   },
-  "averageHeight": 62.0,
+  "averageHeight": 40.0,
   "topBlock": {
-    "block": "biomesoplenty:mud",
+    "block": "minecraft:grass",
     "properties": {
-      "variant": "mud"
+      "snowy": "false"
     }
   },
   "fogColor": -1,
@@ -50,21 +53,17 @@
       "amountPerChunk": 0.25,
       "enable": true
     },
-    "quicksand": {
-      "liquid": {
-        "block": "biomesoplenty:sand",
+    "algae": {
+      "with": {
+        "block": "biomesoplenty:coral",
         "properties": {
-          "level": "0"
+          "level": "15",
+          "variant": "algae"
         }
       },
-      "amountPerChunk": 0.2,
-      "enable": true,
-      "grassBorderWith": {
-        "block": "minecraft:grass",
-        "properties": {
-          "snowy": "false"
-        }
-      }
+      "generationAttempts": 32,
+      "amountPerChunk": 3.0,
+      "enable": true
     },
     "roots": {
       "with": {
@@ -77,10 +76,37 @@
       "amountPerChunk": 4.0,
       "enable": true
     },
-    "trees": {
+    "kelp": {
+      "minHeight": 2,
+      "with": {
+        "block": "biomesoplenty:seaweed",
+        "properties": {
+          "level": "15",
+          "position": "single",
+          "variant": "kelp"
+        }
+      },
+      "generationAttempts": 12,
       "amountPerChunk": 5.0,
+      "maxHeight": 4,
       "enable": true,
-      "generators": {}
+      "randomDirection": false
+    },
+    "kelp_tall": {
+      "minHeight": 6,
+      "with": {
+        "block": "biomesoplenty:seaweed",
+        "properties": {
+          "level": "15",
+          "position": "single",
+          "variant": "kelp"
+        }
+      },
+      "generationAttempts": 12,
+      "amountPerChunk": 6.0,
+      "maxHeight": 12,
+      "enable": true,
+      "randomDirection": false
     },
     "sapphire": {
       "minHeight": 4,
@@ -92,10 +118,8 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": true
+      "enable": false
     }
   },
-  "weights": {
-    "hot_swamp": 7
-  }
+  "weights": {}
 }

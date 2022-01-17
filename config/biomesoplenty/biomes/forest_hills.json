@@ -23,25 +23,6 @@
       "amountPerChunk": 0.3,
       "enable": true
     },
-    "flax": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "flax"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.1,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "flax"
-        }
-      }
-    },
     "flowers": {
       "amountPerChunk": 0.1,
       "enable": true,
@@ -65,25 +46,9 @@
           "variant": "deadleafpile"
         }
       },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.3,
+      "generationAttempts": 16,
+      "amountPerChunk": 0.1,
       "enable": true
-    },
-    "clover_patches": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "cloverpatch"
-        }
-      },
-      "generationAttempts": 128,
-      "amountPerChunk": 0.05,
-      "enable": true
-    },
-    "grass": {
-      "amountPerChunk": 0.5,
-      "enable": true,
-      "generators": {}
     },
     "amber": {
       "minHeight": 4,
@@ -95,7 +60,7 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": true
+      "enable": false
     },
     "roots": {
       "with": {
@@ -116,7 +81,7 @@
         }
       },
       "generationAttempts": 16,
-      "amountPerChunk": 0.1,
+      "amountPerChunk": 0.2,
       "enable": true
     },
     "poison_ivy": {
@@ -126,8 +91,65 @@
           "variant": "poisonivy"
         }
       },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.25,
+      "enable": true
+    },
+    "flax": {
+      "with": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "lower",
+          "variant": "flax"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.1,
+      "enable": true,
+      "withTop": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "upper",
+          "variant": "flax"
+        }
+      }
+    },
+    "grass": {
+      "amountPerChunk": 0.2,
+      "enable": true,
+      "generators": {}
+    },
+    "berry_bushes": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "berrybush"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.1,
+      "enable": true
+    },
+    "blue_milk_caps": {
+      "with": {
+        "block": "biomesoplenty:mushroom",
+        "properties": {
+          "variant": "blue_milk_cap"
+        }
+      },
       "generationAttempts": 16,
       "amountPerChunk": 0.1,
+      "enable": true
+    },
+    "sprouts": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "sprout"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.2,
       "enable": true
     }
   }

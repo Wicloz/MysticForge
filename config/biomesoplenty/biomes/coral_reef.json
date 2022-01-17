@@ -5,7 +5,7 @@
   "fogDensity": 1.0,
   "hasBiomeEssence": false,
   "variationBelow": 5.0,
-  "variationAbove": 5.0,
+  "variationAbove": 10.0,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -20,7 +20,7 @@
       "variant": "dirt"
     }
   },
-  "averageHeight": 40.0,
+  "averageHeight": 45.0,
   "topBlock": {
     "block": "minecraft:grass",
     "properties": {
@@ -42,6 +42,18 @@
       "amountPerChunk": 1.5,
       "enable": true
     },
+    "blue_coral": {
+      "with": {
+        "block": "biomesoplenty:coral",
+        "properties": {
+          "level": "15",
+          "variant": "blue"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 15.0,
+      "enable": true
+    },
     "miners_delight": {
       "with": {
         "block": "biomesoplenty:flower_1",
@@ -51,6 +63,18 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
+      "enable": true
+    },
+    "glowing_coral": {
+      "with": {
+        "block": "biomesoplenty:coral",
+        "properties": {
+          "level": "15",
+          "variant": "glowing"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 15.0,
       "enable": true
     },
     "algae": {
@@ -65,6 +89,18 @@
       "amountPerChunk": 3.0,
       "enable": true
     },
+    "pink_coral": {
+      "with": {
+        "block": "biomesoplenty:coral",
+        "properties": {
+          "level": "15",
+          "variant": "pink"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 15.0,
+      "enable": true
+    },
     "roots": {
       "with": {
         "block": "biomesoplenty:plant_1",
@@ -76,37 +112,17 @@
       "amountPerChunk": 4.0,
       "enable": true
     },
-    "kelp": {
-      "minHeight": 2,
+    "orange_coral": {
       "with": {
-        "block": "biomesoplenty:seaweed",
+        "block": "biomesoplenty:coral",
         "properties": {
           "level": "15",
-          "position": "single",
-          "variant": "kelp"
+          "variant": "orange"
         }
       },
-      "generationAttempts": 12,
-      "amountPerChunk": 5.0,
-      "maxHeight": 4,
-      "enable": true,
-      "randomDirection": false
-    },
-    "kelp_tall": {
-      "minHeight": 6,
-      "with": {
-        "block": "biomesoplenty:seaweed",
-        "properties": {
-          "level": "15",
-          "position": "single",
-          "variant": "kelp"
-        }
-      },
-      "generationAttempts": 12,
-      "amountPerChunk": 6.0,
-      "maxHeight": 12,
-      "enable": true,
-      "randomDirection": false
+      "generationAttempts": 32,
+      "amountPerChunk": 15.0,
+      "enable": true
     },
     "sapphire": {
       "minHeight": 4,
@@ -118,7 +134,7 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": true
+      "enable": false
     }
   },
   "weights": {}

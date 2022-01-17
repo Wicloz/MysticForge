@@ -1,36 +1,5 @@
 {
-  "canGenerateRivers": false,
-  "beachBiomeLocation": "minecraft:beaches",
-  "skyColor": -1,
-  "fogDensity": 1.0,
-  "hasBiomeEssence": false,
-  "variationBelow": 4.0,
-  "variationAbove": 10.0,
-  "seaFloorBlock": {
-    "block": "minecraft:dirt",
-    "properties": {
-      "snowy": "false",
-      "variant": "dirt"
-    }
-  },
-  "fillerBlock": {
-    "block": "minecraft:dirt",
-    "properties": {
-      "snowy": "false",
-      "variant": "dirt"
-    }
-  },
-  "averageHeight": 70.0,
-  "topBlock": {
-    "block": "minecraft:dirt",
-    "properties": {
-      "snowy": "false",
-      "variant": "podzol"
-    }
-  },
-  "fogColor": -1,
-  "canGenerateVillages": false,
-  "canSpawnInBiome": false,
+  "beachBiomeLocation": "biomesoplenty:gravel_beach",
   "generators": {
     "glowshrooms": {
       "with": {
@@ -51,8 +20,32 @@
         }
       },
       "generationAttempts": 64,
-      "amountPerChunk": 0.2,
+      "amountPerChunk": 0.3,
       "enable": true
+    },
+    "flax": {
+      "with": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "lower",
+          "variant": "flax"
+        }
+      },
+      "generationAttempts": 32,
+      "amountPerChunk": 0.1,
+      "enable": true,
+      "withTop": {
+        "block": "biomesoplenty:double_plant",
+        "properties": {
+          "half": "upper",
+          "variant": "flax"
+        }
+      }
+    },
+    "flowers": {
+      "amountPerChunk": 0.1,
+      "enable": true,
+      "generators": {}
     },
     "miners_delight": {
       "with": {
@@ -73,20 +66,22 @@
         }
       },
       "generationAttempts": 32,
-      "amountPerChunk": 0.1,
+      "amountPerChunk": 0.3,
       "enable": true
     },
-    "brown_mushrooms": {
+    "clover_patches": {
       "with": {
-        "block": "minecraft:brown_mushroom",
-        "properties": {}
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "cloverpatch"
+        }
       },
-      "generationAttempts": 16,
-      "amountPerChunk": 0.2,
+      "generationAttempts": 128,
+      "amountPerChunk": 0.05,
       "enable": true
     },
     "grass": {
-      "amountPerChunk": 4.0,
+      "amountPerChunk": 0.5,
       "enable": true,
       "generators": {}
     },
@@ -100,7 +95,7 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": true
+      "enable": false
     },
     "roots": {
       "with": {
@@ -113,31 +108,27 @@
       "amountPerChunk": 4.0,
       "enable": true
     },
-    "sprouts": {
+    "toadstools": {
       "with": {
-        "block": "biomesoplenty:plant_0",
+        "block": "biomesoplenty:mushroom",
         "properties": {
-          "variant": "sprout"
+          "variant": "toadstool"
         }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.25,
-      "enable": true
-    },
-    "red_mushrooms": {
-      "with": {
-        "block": "minecraft:red_mushroom",
-        "properties": {}
       },
       "generationAttempts": 16,
       "amountPerChunk": 0.1,
       "enable": true
     },
-    "trees": {
-      "amountPerChunk": 8.0,
-      "enable": true,
-      "generators": {}
+    "poison_ivy": {
+      "with": {
+        "block": "biomesoplenty:plant_0",
+        "properties": {
+          "variant": "poisonivy"
+        }
+      },
+      "generationAttempts": 16,
+      "amountPerChunk": 0.1,
+      "enable": true
     }
-  },
-  "weights": {}
+  }
 }
