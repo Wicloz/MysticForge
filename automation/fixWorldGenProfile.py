@@ -21,13 +21,18 @@ if __name__ == '__main__':
         -11325: 'Deep Dark',
     }
 
-    with open('../config/jeresources/world-gen.json', 'r') as fp:
+    with open('../config/jeresources/world-gen-old-2022-01-17 02-17-53.json', 'r') as fp:
         profile = json.load(fp)
 
     for entry in profile:
-        if entry['dim'].startswith('Dim '):
-            did = int(entry['dim'].split()[1][:-1])
-            entry['dim'] = dimensions[did]
+        entry['block'] = ':'.join(entry['block'].split(':')[:3])
+        entry['dim'] = dimensions[int(entry['dim'].split()[1][:-1])]
+
+        if 'dropsList' not in entry:
+            entry['dropsList'] = [{
+                'itemStack': entry['block'],
+                'fortunes': {0: 1, 1: 1, 2: 1, 3: 1},
+            }]
 
     with open('../config/jeresources/world-gen.json', 'w') as fp:
         json.dump(profile, fp)
