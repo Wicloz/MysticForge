@@ -143,7 +143,7 @@
     - 223150
     - 389665
 
-- category: MC Patches
+- category: Patches & Performance
   row: 3
   addons:
     - 241160
@@ -152,9 +152,6 @@
     - 278494
     - 285612
     - 308836
-    - 237701
-    - 69118
-    - 230976
     - 233019
     - 288885
     - 299540
@@ -168,6 +165,7 @@
     - 354143
     - 286230
     - 545353
+    - 346014
 
 - category: Combat & Difficulty
   row: 0
@@ -281,7 +279,7 @@
     - 247357
     - 296676
 
-- category: Client Tweaks
+- category: Quality of Life
   row: 3
   addons:
     - 251407
@@ -297,6 +295,9 @@
     - 250419
     - 403303
     - 247895
+    - 230976
+    - 237701
+    - 69118
 
 - category: Base Stuff
   row: 2
