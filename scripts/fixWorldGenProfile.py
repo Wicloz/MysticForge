@@ -21,7 +21,7 @@ if __name__ == '__main__':
         -11325: 'Deep Dark',
     }
 
-    with open('../config/jeresources/world-gen-old-2022-01-18 06-22-54.json', 'r') as fp:
+    with open('../config/jeresources/world-gen.json', 'r') as fp:
         profile = json.load(fp)
 
     for entry in profile:
