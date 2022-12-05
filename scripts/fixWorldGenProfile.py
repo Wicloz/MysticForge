@@ -19,6 +19,7 @@ if __name__ == '__main__':
         28885: 'Hunting Dimension',
         4598: 'Nuclear Wastelands',
         -11325: 'Deep Dark',
+        -2: 'Outer Space',
     }
 
     with open('../config/jeresources/world-gen.json', 'r') as fp:
