@@ -27,7 +27,9 @@ if __name__ == '__main__':
 
     for entry in profile:
         entry['block'] = ':'.join(entry['block'].split(':')[:3])
-        entry['dim'] = dimensions[int(entry['dim'].split()[1][:-1])]
+
+        did = int(entry['dim'].split()[1][:-1])
+        entry['dim'] = dimensions[did] if did in dimensions else f'Planet {did}'
 
         if 'dropsList' not in entry:
             entry['dropsList'] = [{
