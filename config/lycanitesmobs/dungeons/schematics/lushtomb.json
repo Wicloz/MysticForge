@@ -20,6 +20,18 @@
       "biomeTagListType": "whitelist"
     }
   ],
+  "placer": {
+    "type": "surface",
+    "materials": [
+      "air",
+      "wood",
+      "leaves",
+      "plants",
+      "vine",
+      "snow",
+      "cactus"
+    ]
+  },
   "themes": [
     "lush"
   ],

@@ -9,20 +9,29 @@
     {
       "type": "world",
       "dimensionIds": [
-        0,
-        1
+        0
       ],
       "dimensionListType": "whitelist",
       "biomeTags": [
         "spooky",
         "mountain",
-        "swamp",
-        "nether",
-        "end"
+        "swamp"
       ],
       "biomeTagListType": "whitelist"
     }
   ],
+  "placer": {
+    "type": "surface",
+    "materials": [
+      "air",
+      "wood",
+      "leaves",
+      "plants",
+      "vine",
+      "snow",
+      "cactus"
+    ]
+  },
   "themes": [
     "shadow"
   ],
