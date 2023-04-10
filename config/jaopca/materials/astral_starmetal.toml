@@ -13,10 +13,8 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "metallic"
-
-[molten]
-	#The temperature of this molten fluid.
-	temperature = 1000
+	#The color of this material.
+	color = 2107742
 
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
