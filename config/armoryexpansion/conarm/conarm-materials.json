@@ -397,28 +397,6 @@
   },
   {
     "coreMaterialStats": {
-      "durability": 32.0,
-      "defense": 24.75,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 8.96,
-      "modifier": 23.294117,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 8.96,
-      "materialType": "trim"
-    },
-    "identifier": "alumite",
-    "color": -43691,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
       "durability": 1.0,
       "defense": 2.3849998,
       "materialType": "core"
@@ -1516,27 +1494,5 @@
     "type": "METAL",
     "castable": false,
     "craftable": true
-  },
-  {
-    "coreMaterialStats": {
-      "durability": 57.0,
-      "defense": 31.5,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 7.84,
-      "modifier": 23.294117,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 7.84,
-      "materialType": "trim"
-    },
-    "identifier": "emerald_plustic",
-    "color": -11141291,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
   }
 ]
