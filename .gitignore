@@ -29,6 +29,7 @@
 /servers.dat
 /config/oauth.cfg
 /imgui.ini
+/.vscode
 
 /mods
 !/mods/Nutrition-1.12.2-4.9.0.jar
