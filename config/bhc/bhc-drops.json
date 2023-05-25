@@ -3,11 +3,5 @@
     "hostile": 0.01
   },
   "yellow": {},
-  "green": {
-    "boss": 1.0,
-    "dragon": 1.0
-  },
-  "blue": {
-    "minecraft:evocation_illager": 1.0
-  }
+}  "blue": {}
 }
