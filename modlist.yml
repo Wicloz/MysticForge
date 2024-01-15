@@ -93,10 +93,12 @@
     - 252910
     - 322344
     - 236541
+    - 307806
   libraries: yes
   required:
     - 235440
     - 419286
+    - 307806
 
 - category: OreDict Stuff
   row: 3
@@ -206,6 +208,7 @@
     - 224641
     - 290209
     - 250763
+    - 61811
 
 - category: Magic Mods
   row: 2
@@ -238,6 +241,7 @@
     - 304022
     - 223666
     - 247496
+    - 232838
 
 - category: Power Generation
   row: 2
@@ -288,6 +292,7 @@
     - 230976
     - 513857
     - 69118
+    - 238891
 
 - category: Base Stuff
   row: 2
