@@ -35,7 +35,7 @@
 	<Recipe timeRequired="1200" power ="400">
 		<input>
 			<itemStack>advancedrocketry:lens</itemStack>
-			<itemStack>thermalfoundation:material;1;33</itemStack>
+			<itemStack>ic2:plate;1;2</itemStack>
 			<itemStack>minecraft:redstone</itemStack>
 			<itemStack>advancedrocketry:wafer;4</itemStack>
 		</input>
@@ -46,7 +46,7 @@
 	<Recipe timeRequired="1200" power ="600">
 		<input>
 			<itemStack>advancedrocketry:lens</itemStack>
-			<itemStack>thermalfoundation:material;1;33</itemStack>
+			<itemStack>ic2:plate;1;2</itemStack>
 			<itemStack>minecraft:redstone_block</itemStack>
 			<itemStack>advancedrocketry:wafer;4</itemStack>
 		</input>

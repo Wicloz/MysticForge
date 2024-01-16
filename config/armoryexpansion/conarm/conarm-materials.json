@@ -639,28 +639,6 @@
   },
   {
     "coreMaterialStats": {
-      "durability": 29.0,
-      "defense": 27.0,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 11.2,
-      "modifier": 19.058823,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 11.2,
-      "materialType": "trim"
-    },
-    "identifier": "abyssalnite",
-    "color": -11920247,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
       "durability": 21.0,
       "defense": 42.885,
       "materialType": "core"
@@ -1079,28 +1057,6 @@
   },
   {
     "coreMaterialStats": {
-      "durability": 42.0,
-      "defense": 31.5,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 11.2,
-      "modifier": 19.058823,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 11.2,
-      "materialType": "trim"
-    },
-    "identifier": "refined_coralium",
-    "color": -15297947,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
       "durability": 32.0,
       "defense": 27.0,
       "materialType": "core"
@@ -1183,28 +1139,6 @@
     },
     "identifier": "xu_enchanted_metal",
     "color": -4197792,
-    "type": "METAL",
-    "castable": true,
-    "craftable": false
-  },
-  {
-    "coreMaterialStats": {
-      "durability": 54.0,
-      "defense": 36.0,
-      "materialType": "core"
-    },
-    "platesMaterialStats": {
-      "durability": 11.2,
-      "modifier": 19.058823,
-      "toughness": 0.0,
-      "materialType": "plates"
-    },
-    "trimMaterialStats": {
-      "extraDurability": 11.2,
-      "materialType": "trim"
-    },
-    "identifier": "dreadium",
-    "color": -7864063,
     "type": "METAL",
     "castable": true,
     "craftable": false

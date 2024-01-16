@@ -386,14 +386,6 @@
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
 		<input>
-			<oreDict>oreAbyssalnite</oreDict>
-		</input>
-		<output>
-			<itemStack>acintegration:dust;2</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
 			<oreDict>oreArdite</oreDict>
 		</input>
 		<output>
@@ -438,14 +430,6 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material;2;67</itemStack>
-		</output>
-	</Recipe>
-	<Recipe timeRequired="0" power ="0">
-		<input>
-			<oreDict>oreLiquifiedCoralium</oreDict>
-		</input>
-		<output>
-			<itemStack>acintegration:dust;2;1</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="0" power ="0">
