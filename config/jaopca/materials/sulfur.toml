@@ -12,7 +12,5 @@
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
 	#The model type of the material.
-	modelType = "crystal"
-	#The color of this material.
-	color = 12502272
+	modelType = "dust"
 
