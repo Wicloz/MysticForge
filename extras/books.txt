@@ -1,2 +1,3 @@
 tconstruct:book
 conarm:book
+thaumcraft:thaumonomicon
