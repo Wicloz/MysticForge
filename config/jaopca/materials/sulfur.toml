@@ -1,5 +1,5 @@
 
-#Configurations for material Knightslime.
+#Configurations for material Sulfur.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -12,7 +12,7 @@
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
 	#The model type of the material.
-	modelType = "metallic"
+	modelType = "dust"
 	#The color of this material.
-	color = 11434696
+	color = 12625215
 
