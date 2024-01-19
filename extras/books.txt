@@ -1,0 +1,4 @@
+tconstruct:book
+conarm:book
+thaumcraft:thaumonomicon
+iceandfire:bestiary
