@@ -1,5 +1,5 @@
 
-#Configurations for material Ardite.
+#Configurations for material Lithium.
 [general]
 	#The alternative names of this material.
 	alternativeNames = []
@@ -12,11 +12,7 @@
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
 	#The model type of the material.
-	modelType = "metallic"
+	modelType = "dust"
 	#The color of this material.
-	color = 9844503
-
-[mekanism]
-	#The default base to use in Mekanism's Combiner to recreate ores.
-	oreBase = "minecraft:cobblestone"
+	color = 9866120
 
