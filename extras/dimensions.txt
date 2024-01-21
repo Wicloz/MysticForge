@@ -1,5 +1,14 @@
-Overworld, spawn everything:
-> 0
+Overworlds, spawn everything:
+> 0, 28885
 
-Special world types, spawn stuff for those worlds:
-> 1, -1
+Overworlds, spawn only ores:
+> 7
+
+Overworlds, spawn mobs and ores:
+> 111
+
+Special terrain, spawn only stuff for those worlds:
+> 1, -1, 684
+
+Empty dimensions, spawn nothing:
+> 685, 686, 687, 688
