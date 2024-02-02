@@ -22,7 +22,7 @@ if __name__ == '__main__':
         -2: 'Outer Space',
     }
 
-    with open('../config/jeresources/world-gen.json', 'r') as fp:
+    with open('config/jeresources/world-gen.json', 'r') as fp:
         profile = json.load(fp)
 
     for entry in profile:
@@ -37,5 +37,5 @@ if __name__ == '__main__':
                 'fortunes': {0: 1, 1: 1, 2: 1, 3: 1},
             }]
 
-    with open('../config/jeresources/world-gen.json', 'w') as fp:
+    with open('config/jeresources/world-gen.json', 'w') as fp:
         json.dump(profile, fp)
